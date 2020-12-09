@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![alt text](https://i.vgy.me/9SGlVr.png)

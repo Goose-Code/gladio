@@ -24,4 +24,4 @@ KillAuraSize = 50
 
 --[[-Loader-]]--
 
-loadstring(game:HttpGet(''))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Goose-Code/gladio/main/main.lua'))()
